@@ -1,2 +1,6 @@
 This is just a random file to be pulled
+
 This is a new feature in the main branch
+This is a new Feature in the branch feature-xagit
+I also mad this changes in VsCode
+
